@@ -1,4 +1,4 @@
-# 🌊 Samudra Setu
+🌊 Samudra Setu
 
 Samudra Setu is a Flutter-based application focused on marine connectivity, transport assistance, and smart digital solutions related to coastal and maritime services.
 
