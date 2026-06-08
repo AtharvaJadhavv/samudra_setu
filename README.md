@@ -2,7 +2,7 @@
 
 Samudra Setu is a Flutter-based application focused on marine connectivity, transport assistance, and smart digital solutions related to coastal and maritime services.
 
-The application aims to provide users with an intuitive and modern platform for accessing transport, navigation, and support-related functionalities.
+The application aims to provide users with an intuitive and modern platform for accessing transport, navigation, and support - related functionalities.
 
 ---
 
@@ -15,7 +15,7 @@ The application aims to provide users with an intuitive and modern platform for 
 * 📱 Cross-platform Compatibility
 * 🛠️ Modern Flutter UI
 * 📞 Support
-* Help Services
+* Help Services are added.
 
 ---
 
