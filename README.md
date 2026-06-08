@@ -14,7 +14,8 @@ The application aims to provide users with an intuitive and modern platform for 
 * 🔐 Secure Authentication
 * 📱 Cross-platform Compatibility
 * 🛠️ Modern Flutter UI
-* 📞 Support & Help Services
+* 📞 Support
+* Help Services
 
 ---
 
